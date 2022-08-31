@@ -1,0 +1,28 @@
+.registration-form{
+    width: 100%;
+    margin:  100px auto;
+    padding: 20px;
+
+}
+
+h1{
+    background-color: rgba(109, 106, 106, 0.31);
+    text-align: center;
+    
+}
+
+.registration-form-inside{
+    width: 100%;
+    margin:  10px auto;
+    padding-left: 300px;
+    align-items: center;
+    
+}
+ 
+.btn-text-center{
+	padding-left: 260px;
+}
+
+
+
+ 
